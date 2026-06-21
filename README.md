@@ -26,7 +26,7 @@ The project provides a simple and interactive web interface built using Streamli
 
 Clone the repository:
 
-git clone https://github.com/YOUR_USERNAME/AI-Autocorrect-Tool.git
+git clone https://github.com/BK-BharathKumar7/AI-Autocorrect-Tool.git
 
 Navigate to the project folder:
 
